@@ -1,0 +1,21 @@
+question,answer,contexts,ground_truths
+"What was the name of the dynasty that ruled over the Indian subcontinent from 1526 to 1756, and who was its founder?","Based on the context, the answer is:
+
+The Mughal Empire was the dynasty that ruled over the Indian subcontinent from 1526 to 1756, and its founder was Babur.","['dynasty, ruled over the Indian subcontinent from'
+ 'The Mughal Empire, a prominent and influential'
+ 'empire was established in 1526 by Babur, a']",['The Mughal Empire was the dynasty that ruled over the Indian subcontinent from 1526 to 1756. Its founder was Babur.']
+"What is the significance of the Mughal Empire's administrative capital, Fatehpur Sikri, in the context of Akbar's reign and the empire's expansion?",I don't know.,"[""enduring legacies. Akbar's""
+ ""subjects. Akbar's administration was marked by a""
+ 'The architectural achievements of the Mughal']","[""Fatehpur Sikri, the administrative capital of the Mughal Empire during Akbar's reign, is significant because it represents the epitome of Mughal architecture, art, and administrative prowess. Built in the 16th century, Fatehpur Sikri was the capital of the empire from 1571 to 1585, and its construction reflects Akbar's vision of a harmonious blend of Indian, Persian, and Islamic styles. The city's complex of monuments, including the Jama Masjid, the Tomb of Salim Chishti, and the Buland Darwaza, showcases the Mughal Empire's administrative and cultural achievements, demonstrating its ability to integrate diverse cultural influences and establish a strong centralized administration.""]"
+"What was the primary source of revenue for the Mughal Empire during the early 16th century, as mentioned in the text?",I don't know.,"[""subjects. Akbar's administration was marked by a""
+ 'of the arts. The Mughal court became a hub for'
+ ""enduring legacies. Akbar's""]",[None]
+"What was the primary reason for the decline of the Mughal Empire in the 18th century, despite its remnants lasting until the mid-19th century?",I don't know,"['presence with little real power. The last Mughal'
+ 'By the mid-19th century, the Mughal Empire was a'
+ 'The decline of the Mughal Empire began in earnest']",[None]
+"What was the primary source of revenue for the Mughal Empire during the mid-19th century, according to the text on page 0 of 'The Mughal Empire'?",I don't know.,"['of the arts. The Mughal court became a hub for'
+ ""subjects. Akbar's administration was marked by a""
+ 'By the mid-19th century, the Mughal Empire was a']",['Agriculture and trade were the primary sources of revenue for the Mughal Empire during the mid-19th century.']
+What was the name of the founder who established the Mughal Empire in 1526?,Babur.,"['empire was established in 1526 by Babur, a'
+ ""Babur's grandson, Akbar the Great, is often""
+ ""enduring legacies. Akbar's""]",['Babur']
