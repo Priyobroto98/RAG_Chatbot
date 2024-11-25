@@ -1,0 +1,12 @@
+Speacial NOTE regarding the chromadb current version:
+
+ModuleNotFoundError: No module named 'pypika.dialects'
+steps:
+pip install numpy<2
+pip uninstall chromadb pypika
+pip install chromadb
+pip install pypika==0.48.0
+
+for the same doccument file embedding dim are:
+    Cohere Embeddings: 4069 dim 
+    Sentence transformer: 384 dim 
